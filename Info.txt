@@ -3,7 +3,7 @@
 >
 > Maintainer - [Kevin Naughton Jr.](https://github.com/kdn251)
 
-> Forked by - Veeresh Charantimath (Android Dev from Bangalore)
+> Forked by - Veeresh Charantimath (Android Dev from Bangalore, India)
 
 ## Translations
 
